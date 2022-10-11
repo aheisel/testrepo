@@ -10,3 +10,8 @@
 ``` 
 code example
 ```
+
+Pokemon caught
+- [x] Pikachu
+- [x] Meowth
+- [ ] Charmander
